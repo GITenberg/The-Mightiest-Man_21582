@@ -1,0 +1,30 @@
+_repo: The-Mightiest-Man_21582
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fahy, Patrick
+    gutenberg_agent_id: '24795'
+    url: http://www.gutenberg.org/2009/agents/24795
+description: When the aliens conquered Earth, they chose one man to study. And, in
+  exchange for ultimate power, this man sold out humanity lock, stock, and barrel,
+  becoming the greatest traitor the world has ever known. But when the aliens leave
+  -- and the traitor remains behind -- what is the rest of the planet to do? Especially
+  since he can torture or kill with mere thought ...
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2007-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21582'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+title: The Mightiest Man
+url: http://www.gutenberg.org/ebooks/21582
